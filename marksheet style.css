@@ -1,0 +1,21 @@
+
+p{
+    text-align: center;
+    text-decoration: aqua;
+}
+        table {
+            width: 60%;
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+        th,td{
+            border: 1px solid black;
+            padding: 15px; /* Space inside cells */
+            text-align: center;
+        }
+       
+        td.space {
+            width: 50px; /* Adds spacing column */
+            border: none; /* Remove border for spacing */
+        }
+  
